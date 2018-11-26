@@ -1,0 +1,11 @@
+1. socket提供了进程间相互通信的一种形式
+2. socket主要函数(和c的函数保持一致)
+- socket()
+- bind()
+- listen()
+- accept()
+- connect()
+- connect_ex()
+- send()
+- recv()
+- close()
